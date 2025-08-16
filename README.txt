@@ -1,9 +1,8 @@
 Library Management System – COS2614 Assignment 1
 ================================================
 
-Author: [Your Full Name]
-Student Number: [Your Student Number]
-Date: [Submission Date]
+Author: rinavhuthuhawe
+Student Number: 63234912
 Course: COS2614 – Programming: Data Structures
 
 1. Project Description
